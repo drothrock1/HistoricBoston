@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>A7CFE089-416F-4688-A714-533E79AAD255</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Boston</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>BB7B16B2FCDE4A671812EA2AB69ECD500B4333DD</key>
+		<string>https://github.com/drothrock1/HistoricBoston.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Boston.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>BB7B16B2FCDE4A671812EA2AB69ECD500B4333DD</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/drothrock1/HistoricBoston.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>BB7B16B2FCDE4A671812EA2AB69ECD500B4333DD</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>BB7B16B2FCDE4A671812EA2AB69ECD500B4333DD</string>
+			<key>IDESourceControlWCCName</key>
+			<string>HistoricBoston</string>
+		</dict>
+	</array>
+</dict>
+</plist>
