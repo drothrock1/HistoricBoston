@@ -40,6 +40,7 @@
 @implementation mapViewController
 
 @synthesize mapView;
+@synthesize locationManager;
 
 -(void)viewWillAppear:(BOOL)animated {
 	NSLog (@"mapview viewwillappear executed");

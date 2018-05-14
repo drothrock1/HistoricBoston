@@ -189,8 +189,8 @@
 		C49B6D171DC9279300F21E77 /* Default.png in Resources */ = {isa = PBXBuildFile; fileRef = C49B6D161DC9279300F21E77 /* Default.png */; };
 		C49B6D191DC9279B00F21E77 /* Default@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = C49B6D181DC9279B00F21E77 /* Default@2x.png */; };
 		C49B6D1B1DC927A300F21E77 /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = C49B6D1A1DC927A300F21E77 /* Default-568h@2x.png */; };
-		C49B6D1D1DC9281B00F21E77 /* InfoScreen.png in Resources */ = {isa = PBXBuildFile; fileRef = C49B6D1C1DC9281B00F21E77 /* InfoScreen.png */; };
-		C49B6D1F1DC9282400F21E77 /* InfoScreen@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = C49B6D1E1DC9282400F21E77 /* InfoScreen@2x.png */; };
+		C49B6D1D1DC9281B00F21E77 /* InfoScreen480.png in Resources */ = {isa = PBXBuildFile; fileRef = C49B6D1C1DC9281B00F21E77 /* InfoScreen480.png */; };
+		C49B6D1F1DC9282400F21E77 /* InfoScreen.png in Resources */ = {isa = PBXBuildFile; fileRef = C49B6D1E1DC9282400F21E77 /* InfoScreen.png */; };
 		C49B6D211DC9282D00F21E77 /* InfoScreen-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = C49B6D201DC9282D00F21E77 /* InfoScreen-568h@2x.png */; };
 		C49B6D231DC92B3E00F21E77 /* nolac1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = C49B6D221DC92B3E00F21E77 /* nolac1.mp3 */; };
 		C49B6D251DC92B4A00F21E77 /* nolac2.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = C49B6D241DC92B4A00F21E77 /* nolac2.mp3 */; };
@@ -434,8 +434,8 @@
 		C49B6D161DC9279300F21E77 /* Default.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Default.png; sourceTree = "<group>"; };
 		C49B6D181DC9279B00F21E77 /* Default@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default@2x.png"; sourceTree = "<group>"; };
 		C49B6D1A1DC927A300F21E77 /* Default-568h@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-568h@2x.png"; sourceTree = "<group>"; };
-		C49B6D1C1DC9281B00F21E77 /* InfoScreen.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = InfoScreen.png; sourceTree = "<group>"; };
-		C49B6D1E1DC9282400F21E77 /* InfoScreen@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "InfoScreen@2x.png"; sourceTree = "<group>"; };
+		C49B6D1C1DC9281B00F21E77 /* InfoScreen480.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = InfoScreen480.png; sourceTree = "<group>"; };
+		C49B6D1E1DC9282400F21E77 /* InfoScreen.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = InfoScreen.png; sourceTree = "<group>"; };
 		C49B6D201DC9282D00F21E77 /* InfoScreen-568h@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "InfoScreen-568h@2x.png"; sourceTree = "<group>"; };
 		C49B6D221DC92B3E00F21E77 /* nolac1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = nolac1.mp3; sourceTree = "<group>"; };
 		C49B6D241DC92B4A00F21E77 /* nolac2.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = nolac2.mp3; sourceTree = "<group>"; };
@@ -527,8 +527,8 @@
 				C49B6D161DC9279300F21E77 /* Default.png */,
 				C49B6D181DC9279B00F21E77 /* Default@2x.png */,
 				C49B6D1A1DC927A300F21E77 /* Default-568h@2x.png */,
-				C49B6D1C1DC9281B00F21E77 /* InfoScreen.png */,
-				C49B6D1E1DC9282400F21E77 /* InfoScreen@2x.png */,
+				C49B6D1C1DC9281B00F21E77 /* InfoScreen480.png */,
+				C49B6D1E1DC9282400F21E77 /* InfoScreen.png */,
 				C49B6D201DC9282D00F21E77 /* InfoScreen-568h@2x.png */,
 				C42BAFBF11BF369300D9F604 /* InfoXIB */,
 				C42BAFBE11BF366B00D9F604 /* DetailXIB */,
@@ -935,7 +935,7 @@
 				C43166E41DD0ECB000A36746 /* PageEighteenViewController.xib in Resources */,
 				537204DE0DC28C310048CDA2 /* Localizable.strings in Resources */,
 				537204DF0DC28C310048CDA2 /* InfoPlist.strings in Resources */,
-				C49B6D1F1DC9282400F21E77 /* InfoScreen@2x.png in Resources */,
+				C49B6D1F1DC9282400F21E77 /* InfoScreen.png in Resources */,
 				C485173B11AF5C7900549246 /* PinDRed1.png in Resources */,
 				C4CF01851DDDFFE200A489C9 /* Diane.png in Resources */,
 				C49B6D371DC92BE800F21E77 /* nolac14.mp3 in Resources */,
@@ -946,7 +946,7 @@
 				C485173C11AF5C7900549246 /* PinDRed2.png in Resources */,
 				C485173D11AF5C7900549246 /* PinDRed3.png in Resources */,
 				C42E4C4C1DDB402F00AE9944 /* PinDRed17.png in Resources */,
-				C49B6D1D1DC9281B00F21E77 /* InfoScreen.png in Resources */,
+				C49B6D1D1DC9281B00F21E77 /* InfoScreen480.png in Resources */,
 				C41240A21DCA2FA0009EA381 /* Cotton Mather.png in Resources */,
 				C485173E11AF5C7900549246 /* PinDRed4.png in Resources */,
 				C41240FE1DCA35A7009EA381 /* Paul Revere House.png in Resources */,
